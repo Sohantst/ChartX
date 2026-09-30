@@ -1,6 +1,6 @@
 const nextConfig = {
   output: "export",
-  basePath: "/cryptoviz",
+  basePath: "/ChartX",
   images: { unoptimized: true },
 };
 export default nextConfig;
